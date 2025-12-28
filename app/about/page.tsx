@@ -66,7 +66,7 @@ export default function AboutPage() {
           </GradientText>
 
           {/* Subtitle */}
-          <p className="text-gray-200 max-w-2xl text-lg mt-4">
+          <p className="text-gray-200 max-w-2xl mx-auto text-lg mt-4 text-center">
             The Maharashtra Local Guide
           </p>
 
